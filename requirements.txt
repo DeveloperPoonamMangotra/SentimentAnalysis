@@ -87,7 +87,6 @@ numexpr==2.7.0
 numpy==1.16.5
 numpydoc==0.9.1
 oauthlib==3.1.0
-os
 packaging==19.2
 pandas==0.25.1
 pandocfilters==1.4.2
